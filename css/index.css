@@ -1,0 +1,47 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    background-color:#EEEEEE;
+}
+#menu{
+    margin-top: 20px;
+    font-size: 175%;
+    font-family: 'Ubuntu', sans-serif;
+}
+.navbar-brand{
+    font-size: 175%!important;
+    padding-left: 13px;
+    font-family: Arial, Helvetica, sans-serif
+}
+
+#heading{
+    text-align: center;
+    font-size: 125%;
+    font-family: 'Ubuntu', sans-serif;
+}
+.col-xs-12{
+    padding:0px 17px 17px;
+}
+#one,#two,#three{
+    background-color:#222831;
+    color:white;
+    padding: 10px;
+    font-family: 'Inconsolata', monospace;
+    margin : 50px 0px;
+}
+.navbar-dark .navbar-toggler {
+    border-color: white!important;
+}
+
+.navbar-nav .nav-link {
+    text-align: center;
+    color:white!important;
+    font-family: Arial, Helvetica, sans-serif;
+    border-bottom: 1px solid white;
+    
+}
+
+.navbar{
+    border-bottom: 2px solid black;
+}
